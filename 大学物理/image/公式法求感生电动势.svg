@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390.142395" height="372.086853">
+	<defs>
+		<marker id="CustomMarker-01" markerUnits="strokeWidth" markerWidth="15.000001" markerHeight="9" viewBox="-15 -4.5 15 9" orient="auto-start-reverse">
+			<path d="M 0 -0 L -10 -3, -8 -0.5, -8 0.5, -10 3 Z" fill="#000000" stroke="#000000" stroke-linejoin="round" />
+		</marker>
+		<marker id="CustomMarker-02" markerUnits="strokeWidth" markerWidth="15.000001" markerHeight="9" viewBox="-15 -4.5 15 9" orient="auto-start-reverse">
+			<path d="M 0 -0 L -10 -3, -8 -0.5, -8 0.5, -10 3 Z" fill="#000000" stroke="#000000" stroke-linejoin="round" />
+		</marker>
+		<pattern id="Fill_HP-01" patternTransform="rotate(45)" patternUnits="userSpaceOnUse" width="25" height="25">
+			<rect width="25" height="25" fill="#FFFFFF" fill-opacity="0" />
+			<path d="M 0 12.5 L 25 12.5" fill="none" stoke-width="5" stroke="#000000" />
+		</pattern>
+	</defs>
+	<path d="M 157.12 -0 C 157.12 86.775, 86.775 157.12, -0 157.12, -86.775 157.12, -157.12 86.775, -157.12 -0, -157.12 -86.775, -86.775 -157.12, -0 -157.12, 86.775 -157.12, 157.12 -86.775, 157.12 -0 Z" fill="none" stroke="#000000" stroke-width="1.60000002" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.625 0 0 0.625 186.043 186.109)" />
+	<g transform="matrix(1 0 -0 1 143.96 101.391)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 181.916 101.391)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 219.873 101.391)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 106.003 139.347)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 143.96 139.347)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 181.916 139.347)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 219.873 139.347)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 257.829 139.347)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 106.003 177.303)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 219.873 177.303)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 143.96 177.303)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 181.916 177.303)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 257.829 177.303)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 106.003 215.26)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 219.873 215.26)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 143.96 215.26)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 181.916 215.26)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 257.829 215.26)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 219.873 253.216)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 143.96 253.216)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<g transform="matrix(1 0 -0 1 181.916 253.216)">
+		<svg width="105.055351" height="105.007736">
+			<defs />
+			<polyline points="-4.1272 -4.1272 4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<polyline points="4.1272 -4.1272 -4.1272 4.1272" fill="none" stroke="#000000" stroke-width="0.589599967" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1 0 0 1 4.1272 8.80585)" />
+			<rect />
+		</svg>
+	</g>
+	<path d="M 204.336 -0 C 204.336 112.852, 112.852 204.336, -0 204.336, -112.852 204.336, -204.336 112.852, -204.336 -0, -204.336 -112.852, -112.852 -204.336, -0 -204.336, 112.852 -204.336, 204.336 -112.852, 204.336 -0 Z" fill="none" stroke="#000000" stroke-width="1.60000002" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.625 0 0 0.625 186.043 186.109)" />
+	<path d="M 0.000244141 7.72028 L -0.000244141 -7.72021" fill="none" stroke="#000000" stroke-width="1.60000002" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#CustomMarker-01)" transform="matrix(0.625 0 0 0.625 313.753 181.218)" />
+	<path d="M 285.225 -0 C 285.225 157.525, 157.525 285.225, -0 285.225, -157.525 285.225, -285.225 157.525, -285.225 -0, -285.225 -157.525, -157.525 -285.225, -0 -285.225, 157.525 -285.225, 285.225 -157.525, 285.225 -0 Z" fill="none" stroke="#000000" stroke-width="1.60000002" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.625 0 0 0.625 186.043 186.043)" />
+	<path d="M 0.000488281 7.33801 L -0.000366211 -7.33807" fill="none" stroke="#000000" stroke-width="1.60000002" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#CustomMarker-02)" transform="matrix(0.625 0 0 0.625 364.309 181.535)" />
+	<path d="M 0 0 L -262.222 258.667" fill="none" stroke="#000000" stroke-width="4.26666689" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.625 0 0 0.625 379.309 82.5042)" />
+	<path d="M -23.5013 -46.5016 L 23.5015 46.5016" fill="none" stroke="#FF2A00" stroke-width="0.800000012" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.804, 1.996" transform="matrix(0.625 0 0 0.625 200.732 215.107)" />
+	<path d="M -154.613 82.8317 L 154.613 -82.8317" fill="none" stroke="#FF1E00" stroke-width="0.800000012" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.804, 1.996" transform="matrix(0.625 0 0 0.625 282.676 134.273)" />
+	<path d="M 0 0 L 47.0035 93.0045, 309.229 -165.666 Z" stroke="none" fill="url(#Fill_HP-01)" transform="matrix(0.625 0 0 0.625 186.043 186.043)" />
+</svg>
