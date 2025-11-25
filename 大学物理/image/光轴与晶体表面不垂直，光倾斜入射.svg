@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="656.915771" height="236.999985">
+	<defs>
+		<marker id="CustomMarker-01" markerUnits="strokeWidth" markerWidth="15.000001" markerHeight="9" viewBox="-15 -4.5 15 9" orient="auto-start-reverse">
+			<path d="M 0 -0 L -10 -3, -8 -0.5, -8 0.5, -10 3 Z" fill="#000000" stroke="#000000" stroke-linejoin="round" />
+		</marker>
+		<marker id="CustomMarker-02" markerUnits="strokeWidth" markerWidth="15.000001" markerHeight="9" viewBox="-15 -4.5 15 9" orient="auto-start-reverse">
+			<path d="M 0 -0 L -10 -3, -8 -0.5, -8 0.5, -10 3 Z" fill="#FF2A00" stroke="#FF2A00" stroke-linejoin="round" />
+		</marker>
+		<marker id="CustomMarker-03" markerUnits="strokeWidth" markerWidth="15.000001" markerHeight="9" viewBox="-15 -4.5 15 9" orient="auto-start-reverse">
+			<path d="M 0 -0 L -10 -3, -8 -0.5, -8 0.5, -10 3 Z" fill="#0006BF" stroke="#0006BF" stroke-linejoin="round" />
+		</marker>
+		<marker id="CustomMarker-04" markerUnits="strokeWidth" markerWidth="15.000001" markerHeight="9" viewBox="-15 -4.5 15 9" orient="auto-start-reverse">
+			<path d="M 0 -0 L -10 -3, -8 -0.5, -8 0.5, -10 3 Z" fill="#000000" stroke="#000000" stroke-linejoin="round" />
+		</marker>
+	</defs>
+	<rect x="-0" y="-0" width="656.915771" height="236.999985" stroke="none" fill="#FFFFFF" />
+	<path d="M 124.823 97.7435 C 93.0029 138.378, 11.3231 127.558, -57.6145 73.5761, -126.552 19.5939, -156.642 -57.1085, -124.823 -97.7435, -93.0029 -138.378, -11.3231 -127.558, 57.6145 -73.5761, 126.552 -19.5939, 156.642 57.1085, 124.823 97.7435 Z" stroke="none" fill="#0006BF" fill-opacity="0.199999988" transform="matrix(0.5 0 0 0.5 242.944 120.661)" />
+	<path d="M 124.823 97.7435 C 93.0029 138.378, 11.3231 127.558, -57.6145 73.5761, -126.552 19.5939, -156.642 -57.1085, -124.823 -97.7435, -93.0029 -138.378, -11.3231 -127.558, 57.6145 -73.5761, 126.552 -19.5939, 156.642 57.1085, 124.823 97.7435 Z" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.5 0 0 0.5 242.944 120.661)" />
+	<path d="M -624.444 0 L 624.444 0" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.5 0 0 0.5 335.193 120.661)" />
+	<path d="M 84.4447 -107.839 L -84.4443 107.839" fill="none" stroke="#44E500" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7.01, 4.99" transform="matrix(0.5 0 0 0.5 50.7222 174.58)" />
+	<path d="M -82.2228 -112.161 L 82.2219 112.161" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#CustomMarker-01)" transform="matrix(0.5 0 0 0.5 444.056 64.5803)" />
+	<path d="M 93.4564 -0 C 93.4564 51.6145, 51.6145 93.4564, -0 93.4564, -51.6145 93.4564, -93.4564 51.6145, -93.4564 -0, -93.4564 -51.6145, -51.6145 -93.4564, -0 -93.4564, 51.6145 -93.4564, 93.4564 -51.6145, 93.4564 -0 Z" stroke="none" fill="#FF2A00" fill-opacity="0.188235283" transform="matrix(0.5 0 0 0.5 242.944 120.661)" />
+	<path d="M 93.4564 -0 C 93.4564 51.6145, 51.6145 93.4564, -0 93.4564, -51.6145 93.4564, -93.4564 51.6145, -93.4564 -0, -93.4564 -51.6145, -51.6145 -93.4564, -0 -93.4564, 51.6145 -93.4564, 93.4564 -51.6145, 93.4564 -0 Z" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.5 0 0 0.5 242.944 120.661)" />
+	<path d="M 150.668 -192.41 L -150.668 192.41" fill="none" stroke="#44E500" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7.01, 4.99" transform="matrix(0.5 0 0 0.5 233.14 132.295)" />
+	<path d="M 305.971 -60.1562 L -305.971 60.1563" fill="none" stroke="#FF2A00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.5 0 0 0.5 332.181 150.739)" />
+	<path d="M 284.516 -87.0165 L -284.515 87.0161" fill="none" stroke="#0006BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.5 0 0 0.5 342.909 164.169)" />
+	<path d="M -20.4111 -103.817 L 20.4109 103.817" fill="none" stroke="#FF2A00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#CustomMarker-02)" transform="matrix(0.5 0 0 0.5 253.15 172.57)" />
+	<path d="M -74.6655 -98.649 L 74.6652 98.6492" fill="none" stroke="#0006BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#CustomMarker-03)" transform="matrix(0.5 0 0 0.5 280.809 169.986)" />
+	<path d="M -82.2225 -112.161 L 82.222 112.161" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#CustomMarker-04)" transform="matrix(0.5 0 0 0.5 201.833 64.5803)" />
+</svg>
