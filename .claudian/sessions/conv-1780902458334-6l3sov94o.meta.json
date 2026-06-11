@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780902458334-6l3sov94o",
+  "providerId": "claude",
+  "title": "Explain functional dependency in databases",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780902458340,
+  "updatedAt": 1781100355898,
+  "lastResponseAt": 1780922138041,
+  "sessionId": "7654ff9f-846e-452b-83c1-53639f5d7f3c",
+  "providerState": {
+    "providerSessionId": "7654ff9f-846e-452b-83c1-53639f5d7f3c"
+  },
+  "currentNote": "数据库系统/数据库系统.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1207,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 73984,
+    "contextWindow": 200000,
+    "contextTokens": 75191,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}

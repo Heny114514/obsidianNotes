@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781101950667-7h6yqfy60",
+  "providerId": "claude",
+  "title": "Explain database transactions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781101950667,
+  "updatedAt": 1781166327210,
+  "lastResponseAt": 1781166327210,
+  "sessionId": "9caa9fa3-1e67-4dee-afad-c3bc5a955beb",
+  "providerState": {
+    "providerSessionId": "9caa9fa3-1e67-4dee-afad-c3bc5a955beb"
+  },
+  "currentNote": "数据库系统/数据库系统.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 287,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 58752,
+    "contextWindow": 1000000,
+    "contextTokens": 59039,
+    "percentage": 6
+  }
+}

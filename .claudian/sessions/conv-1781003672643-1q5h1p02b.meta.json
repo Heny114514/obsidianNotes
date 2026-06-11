@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781003672643-1q5h1p02b",
+  "providerId": "claude",
+  "title": "Analyze mock exam test points",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781003672646,
+  "updatedAt": 1781100356842,
+  "lastResponseAt": 1781003748932,
+  "sessionId": "066277dc-fbeb-4706-a8dd-52cc7d2a5219",
+  "providerState": {
+    "providerSessionId": "066277dc-fbeb-4706-a8dd-52cc7d2a5219"
+  },
+  "currentNote": "数据库系统/课件/模拟题.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1767,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34048,
+    "contextWindow": 200000,
+    "contextTokens": 35815,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}
