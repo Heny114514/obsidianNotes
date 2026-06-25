@@ -1,0 +1,25 @@
+{
+  "id": "conv-1782035619567-3fxz2ys12",
+  "providerId": "codex",
+  "title": "Create mock exam answer file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782035619571,
+  "updatedAt": 1782036661200,
+  "lastResponseAt": 1782036661200,
+  "sessionId": "019ee999-a494-7001-b10b-da37c276ff29",
+  "providerState": {
+    "threadId": "019ee999-a494-7001-b10b-da37c276ff29",
+    "sessionFilePath": "/Users/heny/.codex/sessions/2026/06/21/rollout-2026-06-21T17-53-41-019ee999-a494-7001-b10b-da37c276ff29.jsonl",
+    "transcriptRootPath": "/Users/heny/.codex/sessions"
+  },
+  "usage": {
+    "inputTokens": 36342,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35072,
+    "contextWindow": 353400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36342,
+    "percentage": 10,
+    "model": "gpt-5.5"
+  }
+}

@@ -4,7 +4,7 @@
   "title": "Explain database transactions",
   "titleGenerationStatus": "success",
   "createdAt": 1781101950667,
-  "updatedAt": 1781166327210,
+  "updatedAt": 1781789632460,
   "lastResponseAt": 1781166327210,
   "sessionId": "9caa9fa3-1e67-4dee-afad-c3bc5a955beb",
   "providerState": {
@@ -18,6 +18,7 @@
     "cacheReadInputTokens": 58752,
     "contextWindow": 1000000,
     "contextTokens": 59039,
-    "percentage": 6
+    "percentage": 6,
+    "contextWindowIsAuthoritative": false
   }
 }
