@@ -4,8 +4,8 @@
   "title": "Create mock exam answer file",
   "titleGenerationStatus": "success",
   "createdAt": 1782035619571,
-  "updatedAt": 1782036661200,
-  "lastResponseAt": 1782036661200,
+  "updatedAt": 1782652677404,
+  "lastResponseAt": 1782375392106,
   "sessionId": "019ee999-a494-7001-b10b-da37c276ff29",
   "providerState": {
     "threadId": "019ee999-a494-7001-b10b-da37c276ff29",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "/Users/heny/.codex/sessions"
   },
   "usage": {
-    "inputTokens": 36342,
+    "inputTokens": 13823,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 35072,
-    "contextWindow": 353400,
+    "cacheReadInputTokens": 13184,
+    "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 36342,
-    "percentage": 10,
+    "contextTokens": 13823,
+    "percentage": 5,
     "model": "gpt-5.5"
   }
 }

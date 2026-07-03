@@ -1,0 +1,26 @@
+{
+  "id": "conv-1782652784706-75k5vfhih",
+  "providerId": "codex",
+  "title": "Organize Logic and Computer Design notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782652784707,
+  "updatedAt": 1783087525058,
+  "lastResponseAt": 1783087440666,
+  "sessionId": "019f0e62-e536-7b43-9280-65f1c1586eef",
+  "providerState": {
+    "threadId": "019f0e62-e536-7b43-9280-65f1c1586eef",
+    "sessionFilePath": "/Users/heny/.codex/sessions/2026/06/28/rollout-2026-06-28T21-19-50-019f0e62-e536-7b43-9280-65f1c1586eef.jsonl",
+    "transcriptRootPath": "/Users/heny/.codex/sessions"
+  },
+  "currentNote": "逻辑与计算机系统设计/逻辑与计算机系统设计.md",
+  "usage": {
+    "inputTokens": 171921,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 160128,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 171921,
+    "percentage": 67,
+    "model": "gpt-5.5"
+  }
+}

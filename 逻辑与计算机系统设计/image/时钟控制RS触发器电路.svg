@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#222"/>
+    </marker>
+    <style>
+      .wire{stroke:#222;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .gate{fill:#f7f9fc;stroke:#222;stroke-width:3}
+      .bubble{fill:white;stroke:#222;stroke-width:3}
+      .label{font-family:Arial,'Noto Sans CJK SC','Microsoft YaHei',sans-serif;font-size:28px;fill:#111}
+      .small{font-family:Arial,'Noto Sans CJK SC','Microsoft YaHei',sans-serif;font-size:22px;fill:#333}
+      .title{font-family:Arial,'Noto Sans CJK SC','Microsoft YaHei',sans-serif;font-size:34px;font-weight:700;fill:#111}
+      .note{font-family:Arial,'Noto Sans CJK SC','Microsoft YaHei',sans-serif;font-size:24px;fill:#0b5394}
+      .blue{stroke:#1e88e5}
+      .red{stroke:#d32f2f}
+    </style>
+  </defs>
+
+  <text x="600" y="55" text-anchor="middle" class="title">时钟控制的 RS 触发器（同步 RS 锁存器）</text>
+
+  <!-- left input labels -->
+  <text x="72" y="165" class="label">S</text>
+  <text x="72" y="305" class="label">R</text>
+  <text x="60" y="238" class="label">CP</text>
+
+  <!-- input wires -->
+  <path class="wire" d="M110 155 H210"/>
+  <path class="wire" d="M110 295 H210"/>
+  <path class="wire blue" d="M115 230 H170 V200 H210"/>
+  <path class="wire blue" d="M170 230 V250 H210"/>
+  <circle cx="170" cy="230" r="5" fill="#1e88e5"/>
+
+  <!-- gating NAND gates G3/G4 -->
+  <rect x="210" y="115" width="105" height="90" rx="12" class="gate"/>
+  <text x="262" y="170" text-anchor="middle" class="label">&amp;</text>
+  <circle cx="329" cy="160" r="14" class="bubble"/>
+  <text x="230" y="105" class="small">G3</text>
+
+  <rect x="210" y="255" width="105" height="90" rx="12" class="gate"/>
+  <text x="262" y="310" text-anchor="middle" class="label">&amp;</text>
+  <circle cx="329" cy="300" r="14" class="bubble"/>
+  <text x="230" y="372" class="small">G4</text>
+
+  <!-- wires from gating gates to latch -->
+  <path class="wire" d="M343 160 H470"/>
+  <path class="wire" d="M343 300 H470"/>
+  <text x="370" y="145" class="small">S<tspan baseline-shift="super">′</tspan>=¬(S·CP)</text>
+  <text x="370" y="330" class="small">R<tspan baseline-shift="super">′</tspan>=¬(R·CP)</text>
+
+  <!-- latch NAND gates -->
+  <rect x="470" y="105" width="120" height="105" rx="12" class="gate"/>
+  <text x="530" y="168" text-anchor="middle" class="label">&amp;</text>
+  <circle cx="606" cy="158" r="14" class="bubble"/>
+  <text x="505" y="92" class="small">G1</text>
+
+  <rect x="470" y="270" width="120" height="105" rx="12" class="gate"/>
+  <text x="530" y="333" text-anchor="middle" class="label">&amp;</text>
+  <circle cx="606" cy="323" r="14" class="bubble"/>
+  <text x="505" y="402" class="small">G2</text>
+
+  <!-- outputs -->
+  <path class="wire" d="M620 158 H955"/>
+  <path class="wire" d="M620 323 H955"/>
+  <text x="970" y="166" class="label">Q</text>
+  <text x="970" y="331" class="label">Q̅</text>
+
+  <!-- feedback cross coupling -->
+  <path class="wire red" d="M660 158 C715 158 720 245 655 245 H450 V305 H470"/>
+  <path class="wire red" d="M660 323 C715 323 720 238 655 238 H450 V175 H470"/>
+  <circle cx="660" cy="158" r="5" fill="#d32f2f"/>
+  <circle cx="660" cy="323" r="5" fill="#d32f2f"/>
+
+  <!-- truth table box -->
+  <rect x="125" y="470" width="440" height="190" rx="14" fill="#fff" stroke="#bbb" stroke-width="2"/>
+  <text x="345" y="505" text-anchor="middle" class="note">CP=1 时工作；CP=0 时保持</text>
+  <line x1="150" y1="525" x2="540" y2="525" stroke="#bbb"/>
+  <text x="165" y="558" class="small">S</text><text x="235" y="558" class="small">R</text><text x="320" y="558" class="small">Qⁿ⁺¹</text><text x="430" y="558" class="small">功能</text>
+  <line x1="150" y1="570" x2="540" y2="570" stroke="#ddd"/>
+  <text x="165" y="600" class="small">0</text><text x="235" y="600" class="small">0</text><text x="320" y="600" class="small">Qⁿ</text><text x="430" y="600" class="small">保持</text>
+  <text x="165" y="630" class="small">0</text><text x="235" y="630" class="small">1</text><text x="320" y="630" class="small">0</text><text x="430" y="630" class="small">复位</text>
+  <text x="165" y="660" class="small">1</text><text x="235" y="660" class="small">0</text><text x="320" y="660" class="small">1</text><text x="430" y="660" class="small">置位</text>
+
+  <rect x="645" y="485" width="420" height="145" rx="14" fill="#f8fbff" stroke="#9bbce3" stroke-width="2"/>
+  <text x="670" y="525" class="note">特征方程：</text>
+  <text x="670" y="570" class="label">Qⁿ⁺¹ = S + R̅Qⁿ</text>
+  <text x="670" y="610" class="small">约束条件：S·R = 0（禁止同时置位和复位）</text>
+</svg>

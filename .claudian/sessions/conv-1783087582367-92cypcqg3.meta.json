@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783087582367-92cypcqg3",
+  "providerId": "codex",
+  "title": "整理逻辑与计算机系统设计课件例题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783087582368,
+  "updatedAt": 1783088176449,
+  "lastResponseAt": 1783088176449,
+  "sessionId": "019f284d-4dbd-7480-87eb-2937d514b0a8",
+  "providerState": {
+    "threadId": "019f284d-4dbd-7480-87eb-2937d514b0a8",
+    "sessionFilePath": "/Users/heny/.codex/sessions/2026/07/03/rollout-2026-07-03T22-06-22-019f284d-4dbd-7480-87eb-2937d514b0a8.jsonl",
+    "transcriptRootPath": "/Users/heny/.codex/sessions"
+  },
+  "currentNote": "逻辑与计算机系统设计/例题.md",
+  "usage": {
+    "inputTokens": 76048,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 59776,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 76048,
+    "percentage": 29,
+    "model": "gpt-5.5"
+  }
+}
